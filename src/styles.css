@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+.my-box {
+  margin : 40px 50px;
+  }
+
+  .my-box1 {
+  margin : 15px;
+  }
+
+.my-title {
+  color: #616161;
+  box-sizing: border-box;
+  font-size: 32px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.my-box2 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
